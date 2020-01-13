@@ -1,4 +1,5 @@
 # 301-practice-2
+
 In a Handlebars template, what does {{city}} refer to?
 {{}}  Handlebars expression  to include the value of variable (city) to add it to DOM
 
