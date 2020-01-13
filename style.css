@@ -1,0 +1,68 @@
+header{
+    background: black;
+    color:white;
+    margin:10px;
+}
+footer{
+    background: darkgray;
+    color:black
+}
+section{
+    background: near-white;
+}
+.card1{
+    border: solid 1px black;
+    height: 450px;
+    width:400px;
+    box-sizing: border-box;
+    float:left;
+    margin-left: 130px;
+    margin-right: 100px;
+    
+}
+section{
+    overflow: hidden;
+}
+.card2{
+    border: solid 1px black;
+    height: 450px;
+    width:400px;
+    float: right;
+    margin-right: 130px;
+    margin-left: 100px;
+
+
+}
+h2{
+    border-bottom: solid 1px black;
+
+}
+img{
+    float: left;
+}
+#internal{
+    clear: both;
+}
+#buy1{
+    float: right;
+    margin-top:100px
+}
+#cancel1{
+    margin-top:100px
+
+
+}
+#buy2{
+    float: right;
+    margin-top:100px
+}
+#cancel2{
+    margin-top:100px
+
+
+}
+
+#link{
+    margin-top: 10px;
+
+}
